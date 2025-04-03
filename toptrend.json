@@ -1,0 +1,987 @@
+[
+    {
+        "id": 1,
+        "name": "3 Diamonds.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/3 Diamonds.png"
+    },
+    {
+        "id": 2,
+        "name": "888 Golden Dragon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/888 Golden Dragon.png"
+    },
+    {
+        "id": 3,
+        "name": "ActionHeroes.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ActionHeroes.png"
+    },
+    {
+        "id": 4,
+        "name": "AladdinHandOfMidas.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/AladdinHandOfMidas.png"
+    },
+    {
+        "id": 5,
+        "name": "Aladdins Legacy H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Aladdins Legacy H5.png"
+    },
+    {
+        "id": 6,
+        "name": "AladdinsLegacy.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/AladdinsLegacy.png"
+    },
+    {
+        "id": 7,
+        "name": "Aloha Spirit Xtra Lock.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Aloha Spirit Xtra Lock.png"
+    },
+    {
+        "id": 8,
+        "name": "AmazonAdventureSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/AmazonAdventureSlots.png"
+    },
+    {
+        "id": 9,
+        "name": "AngelsTouch.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/AngelsTouch.png"
+    },
+    {
+        "id": 10,
+        "name": "Arthurs Quest II.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Arthurs Quest II.png"
+    },
+    {
+        "id": 11,
+        "name": "ArthursQuest.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ArthursQuest.png"
+    },
+    {
+        "id": 12,
+        "name": "Athena.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Athena.png"
+    },
+    {
+        "id": 13,
+        "name": "Bars And Bells Slots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Bars And Bells Slots.png"
+    },
+    {
+        "id": 14,
+        "name": "Battle Heroes.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Battle Heroes.png"
+    },
+    {
+        "id": 15,
+        "name": "BerryBlastPlus.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/BerryBlastPlus.png"
+    },
+    {
+        "id": 16,
+        "name": "BerryBlastSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/BerryBlastSlots.png"
+    },
+    {
+        "id": 17,
+        "name": "Bollywood Billions.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Bollywood Billions.png"
+    },
+    {
+        "id": 18,
+        "name": "Book of the East.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Book of the East.png"
+    },
+    {
+        "id": 19,
+        "name": "Book of the West.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Book of the West.png"
+    },
+    {
+        "id": 20,
+        "name": "BullsEyeBucks.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/BullsEyeBucks.png"
+    },
+    {
+        "id": 21,
+        "name": "Candy Gold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Candy Gold.png"
+    },
+    {
+        "id": 22,
+        "name": "Cash Inferno.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Cash Inferno.png"
+    },
+    {
+        "id": 23,
+        "name": "CashGrab.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/CashGrab.png"
+    },
+    {
+        "id": 24,
+        "name": "CashGrabII.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/CashGrabII.png"
+    },
+    {
+        "id": 25,
+        "name": "Cherry Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Cherry Fortune.png"
+    },
+    {
+        "id": 26,
+        "name": "Chilli Gold H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Chilli Gold H5.png"
+    },
+    {
+        "id": 27,
+        "name": "ChilliGold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ChilliGold.png"
+    },
+    {
+        "id": 28,
+        "name": "ChoySunDoa.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ChoySunDoa.png"
+    },
+    {
+        "id": 29,
+        "name": "Cleopatra.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Cleopatra.png"
+    },
+    {
+        "id": 30,
+        "name": "Crazy8s.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Crazy8s.png"
+    },
+    {
+        "id": 31,
+        "name": "Detective Black Cat.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Detective Black Cat.png"
+    },
+    {
+        "id": 32,
+        "name": "Dia De Muertos.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dia De Muertos.png"
+    },
+    {
+        "id": 33,
+        "name": "Diamond Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Diamond Fortune.png"
+    },
+    {
+        "id": 34,
+        "name": "Diamond Tower H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Diamond Tower H5.png"
+    },
+    {
+        "id": 35,
+        "name": "Dolphin Gold H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dolphin Gold H5.png"
+    },
+    {
+        "id": 36,
+        "name": "DolphinGold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/DolphinGold.png"
+    },
+    {
+        "id": 37,
+        "name": "DracosFire.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/DracosFire.png"
+    },
+    {
+        "id": 38,
+        "name": "Drago King.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Drago King.png"
+    },
+    {
+        "id": 39,
+        "name": "Dragon King H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dragon King H5.png"
+    },
+    {
+        "id": 40,
+        "name": "Dragon Palace H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dragon Palace H5.png"
+    },
+    {
+        "id": 41,
+        "name": "Dragon8 Slots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dragon8 Slots.png"
+    },
+    {
+        "id": 42,
+        "name": "DragonBallReels.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/DragonBallReels.png"
+    },
+    {
+        "id": 43,
+        "name": "DragonPalace.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/DragonPalace.png"
+    },
+    {
+        "id": 44,
+        "name": "Dynasty Empire.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Dynasty Empire.png"
+    },
+    {
+        "id": 45,
+        "name": "Eight Immortals.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Eight Immortals.png"
+    },
+    {
+        "id": 46,
+        "name": "Everlasting Spins.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Everlasting Spins.png"
+    },
+    {
+        "id": 47,
+        "name": "Fairy Hollow.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fairy Hollow.png"
+    },
+    {
+        "id": 48,
+        "name": "FanCashticSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FanCashticSlots.png"
+    },
+    {
+        "id": 49,
+        "name": "FastTrack.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FastTrack.png"
+    },
+    {
+        "id": 50,
+        "name": "Fire Goddess H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fire Goddess H5.png"
+    },
+    {
+        "id": 51,
+        "name": "FireGoddess.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FireGoddess.png"
+    },
+    {
+        "id": 52,
+        "name": "Five Pirates H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Five Pirates H5.png"
+    },
+    {
+        "id": 53,
+        "name": "Five Princesses.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Five Princesses.png"
+    },
+    {
+        "id": 54,
+        "name": "FivePirates.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FivePirates.png"
+    },
+    {
+        "id": 55,
+        "name": "Fortune Frog.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fortune Frog.png"
+    },
+    {
+        "id": 56,
+        "name": "Fortune Pays H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fortune Pays H5.png"
+    },
+    {
+        "id": 57,
+        "name": "Fortune8Cat.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fortune8Cat.png"
+    },
+    {
+        "id": 58,
+        "name": "FortunePays.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FortunePays.png"
+    },
+    {
+        "id": 59,
+        "name": "FortuneTellerSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FortuneTellerSlots.png"
+    },
+    {
+        "id": 60,
+        "name": "Frogs n Flies 2.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Frogs n Flies 2.png"
+    },
+    {
+        "id": 61,
+        "name": "Frogs N Flies H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Frogs N Flies H5.png"
+    },
+    {
+        "id": 62,
+        "name": "FrogsNFlies.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FrogsNFlies.png"
+    },
+    {
+        "id": 63,
+        "name": "FruitParty.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FruitParty.png"
+    },
+    {
+        "id": 64,
+        "name": "Fu Star H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Fu Star H5.png"
+    },
+    {
+        "id": 65,
+        "name": "FuStar.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/FuStar.png"
+    },
+    {
+        "id": 66,
+        "name": "Gem Riches.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Gem Riches.png"
+    },
+    {
+        "id": 67,
+        "name": "Golden 888.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden 888.png"
+    },
+    {
+        "id": 68,
+        "name": "Golden Amazon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Amazon.png"
+    },
+    {
+        "id": 69,
+        "name": "Golden Buffalo.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Buffalo.png"
+    },
+    {
+        "id": 70,
+        "name": "Golden Claw.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Claw.png"
+    },
+    {
+        "id": 71,
+        "name": "Golden Dragon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Dragon.png"
+    },
+    {
+        "id": 72,
+        "name": "Golden Pig.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Pig.png"
+    },
+    {
+        "id": 73,
+        "name": "Golden Reindeer.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Golden Reindeer.png"
+    },
+    {
+        "id": 74,
+        "name": "GoldenGenie.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/GoldenGenie.png"
+    },
+    {
+        "id": 75,
+        "name": "Gong Xi Fa Cai.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Gong Xi Fa Cai.png"
+    },
+    {
+        "id": 76,
+        "name": "GoooalSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/GoooalSlots.png"
+    },
+    {
+        "id": 77,
+        "name": "GrandPrix.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/GrandPrix.png"
+    },
+    {
+        "id": 78,
+        "name": "Grockels Cauldron.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Grockels Cauldron.png"
+    },
+    {
+        "id": 79,
+        "name": "Hachis Quest Of Heroes.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Hachis Quest Of Heroes.png"
+    },
+    {
+        "id": 80,
+        "name": "Hana Bana.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Hana Bana.png"
+    },
+    {
+        "id": 81,
+        "name": "Happy Happy Penguin.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Happy Happy Penguin.png"
+    },
+    {
+        "id": 82,
+        "name": "Heroes Never Die.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Heroes Never Die.png"
+    },
+    {
+        "id": 83,
+        "name": "HoleInOne.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/HoleInOne.png"
+    },
+    {
+        "id": 84,
+        "name": "HollywoodReels.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/HollywoodReels.png"
+    },
+    {
+        "id": 85,
+        "name": "Hot Volcano H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Hot Volcano H5.png"
+    },
+    {
+        "id": 86,
+        "name": "HotVolcano.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/HotVolcano.png"
+    },
+    {
+        "id": 87,
+        "name": "Huluwa.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Huluwa.png"
+    },
+    {
+        "id": 88,
+        "name": "Immortal Monkey King.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Immortal Monkey King.png"
+    },
+    {
+        "id": 89,
+        "name": "JackpotHolidaySlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/JackpotHolidaySlots.png"
+    },
+    {
+        "id": 90,
+        "name": "JadeEmpire.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/JadeEmpire.png"
+    },
+    {
+        "id": 91,
+        "name": "Jawz.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Jawz.png"
+    },
+    {
+        "id": 92,
+        "name": "Jelly Mania XtraStreak.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Jelly Mania XtraStreak.png"
+    },
+    {
+        "id": 93,
+        "name": "Jorgen From Bergen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Jorgen From Bergen.png"
+    },
+    {
+        "id": 94,
+        "name": "JourneyWest.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/JourneyWest.png"
+    },
+    {
+        "id": 95,
+        "name": "JumpForGold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/JumpForGold.png"
+    },
+    {
+        "id": 96,
+        "name": "KatLeeII.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/KatLeeII.png"
+    },
+    {
+        "id": 97,
+        "name": "KatLeeSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/KatLeeSlots.png"
+    },
+    {
+        "id": 98,
+        "name": "King Dinosaur.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/King Dinosaur.png"
+    },
+    {
+        "id": 99,
+        "name": "Kung Fu Showdown.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Kung Fu Showdown.png"
+    },
+    {
+        "id": 100,
+        "name": "LadysCharmsSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/LadysCharmsSlots.png"
+    },
+    {
+        "id": 101,
+        "name": "Laser Cats.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Laser Cats.png"
+    },
+    {
+        "id": 102,
+        "name": "League Of Champions.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/League Of Champions.png"
+    },
+    {
+        "id": 103,
+        "name": "Legend Of Link H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Legend Of Link H5.png"
+    },
+    {
+        "id": 104,
+        "name": "Lone Rider XtraWays.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Lone Rider XtraWays.png"
+    },
+    {
+        "id": 105,
+        "name": "Lost Temple H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Lost Temple H5.png"
+    },
+    {
+        "id": 106,
+        "name": "LostTemple.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/LostTemple.png"
+    },
+    {
+        "id": 107,
+        "name": "Lucky Panda H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Lucky Panda H5.png"
+    },
+    {
+        "id": 108,
+        "name": "LuckyPanda.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/LuckyPanda.png"
+    },
+    {
+        "id": 109,
+        "name": "Lucky_Cherry.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Lucky_Cherry.png"
+    },
+    {
+        "id": 110,
+        "name": "Mad Monkey 2.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mad Monkey 2.png"
+    },
+    {
+        "id": 111,
+        "name": "Mad Monkey H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mad Monkey H5.png"
+    },
+    {
+        "id": 112,
+        "name": "MadMonkey.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/MadMonkey.png"
+    },
+    {
+        "id": 113,
+        "name": "MagicalGroveSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/MagicalGroveSlots.png"
+    },
+    {
+        "id": 114,
+        "name": "Mammoth.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mammoth.png"
+    },
+    {
+        "id": 115,
+        "name": "Medusas Curse.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Medusas Curse.png"
+    },
+    {
+        "id": 116,
+        "name": "Mega Maya.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mega Maya.png"
+    },
+    {
+        "id": 117,
+        "name": "Mega Phoenix.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mega Phoenix.png"
+    },
+    {
+        "id": 118,
+        "name": "Monkey AndTheMoon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Monkey AndTheMoon.png"
+    },
+    {
+        "id": 119,
+        "name": "Monkey Luck.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Monkey Luck.png"
+    },
+    {
+        "id": 120,
+        "name": "MonkeyLoveSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/MonkeyLoveSlots.png"
+    },
+    {
+        "id": 121,
+        "name": "More Monkeys H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/More Monkeys H5.png"
+    },
+    {
+        "id": 122,
+        "name": "MoreMonkeys.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/MoreMonkeys.png"
+    },
+    {
+        "id": 123,
+        "name": "Mystic Bear.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Mystic Bear.png"
+    },
+    {
+        "id": 124,
+        "name": "Neptunes Gold H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Neptunes Gold H5.png"
+    },
+    {
+        "id": 125,
+        "name": "NeptunesGoldSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/NeptunesGoldSlots.png"
+    },
+    {
+        "id": 126,
+        "name": "Neutron Star H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Neutron Star H5.png"
+    },
+    {
+        "id": 127,
+        "name": "NeutronStar.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/NeutronStar.png"
+    },
+    {
+        "id": 128,
+        "name": "Oktoberfest.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Oktoberfest.png"
+    },
+    {
+        "id": 129,
+        "name": "Panda Warrior.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Panda Warrior.png"
+    },
+    {
+        "id": 130,
+        "name": "Perfect Pairs Blackjack.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Perfect Pairs Blackjack.png"
+    },
+    {
+        "id": 131,
+        "name": "Pirate Treasure.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Pirate Treasure.png"
+    },
+    {
+        "id": 132,
+        "name": "Pirate_Treasure.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Pirate_Treasure.png"
+    },
+    {
+        "id": 133,
+        "name": "PolarRichesSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/PolarRichesSlots.png"
+    },
+    {
+        "id": 134,
+        "name": "PotOGoldII.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/PotOGoldII.png"
+    },
+    {
+        "id": 135,
+        "name": "Rainbow Gold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Rainbow Gold.png"
+    },
+    {
+        "id": 136,
+        "name": "RedHotFreeSpins.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/RedHotFreeSpins.png"
+    },
+    {
+        "id": 137,
+        "name": "Reels Of Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Reels Of Fortune.png"
+    },
+    {
+        "id": 138,
+        "name": "RobinHood.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/RobinHood.png"
+    },
+    {
+        "id": 139,
+        "name": "Rock N Ways XtraWays.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Rock N Ways XtraWays.png"
+    },
+    {
+        "id": 140,
+        "name": "RoseOfVenice.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/RoseOfVenice.png"
+    },
+    {
+        "id": 141,
+        "name": "Royal Golden Dragon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Royal Golden Dragon.png"
+    },
+    {
+        "id": 142,
+        "name": "Royal Rumble.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Royal Rumble.png"
+    },
+    {
+        "id": 143,
+        "name": "Samurai Blade.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Samurai Blade.png"
+    },
+    {
+        "id": 144,
+        "name": "SamuraiPrincess.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/SamuraiPrincess.png"
+    },
+    {
+        "id": 145,
+        "name": "Santa Vs Aliens.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Santa Vs Aliens.png"
+    },
+    {
+        "id": 146,
+        "name": "Sea God.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Sea God.png"
+    },
+    {
+        "id": 147,
+        "name": "Sea Raiders.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Sea Raiders.png"
+    },
+    {
+        "id": 148,
+        "name": "SerengetiDiamonds.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/SerengetiDiamonds.png"
+    },
+    {
+        "id": 149,
+        "name": "Shark.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Shark.png"
+    },
+    {
+        "id": 150,
+        "name": "ShogunShowdown.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ShogunShowdown.png"
+    },
+    {
+        "id": 151,
+        "name": "Silver Lion H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Silver Lion H5.png"
+    },
+    {
+        "id": 152,
+        "name": "SilverLion.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/SilverLion.png"
+    },
+    {
+        "id": 153,
+        "name": "Sinful Spins Slots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Sinful Spins Slots.png"
+    },
+    {
+        "id": 154,
+        "name": "SnakeCharmer.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/SnakeCharmer.png"
+    },
+    {
+        "id": 155,
+        "name": "Space Invasion.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Space Invasion.png"
+    },
+    {
+        "id": 156,
+        "name": "Spin City.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Spin City.png"
+    },
+    {
+        "id": 157,
+        "name": "Spin Diner.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Spin Diner.png"
+    },
+    {
+        "id": 158,
+        "name": "Stacks of Cheese.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Stacks of Cheese.png"
+    },
+    {
+        "id": 159,
+        "name": "Storm of Egypt.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Storm of Egypt.png"
+    },
+    {
+        "id": 160,
+        "name": "Super Kids.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Super Kids.png"
+    },
+    {
+        "id": 161,
+        "name": "SurfsUpSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/SurfsUpSlots.png"
+    },
+    {
+        "id": 162,
+        "name": "Sushi Master.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Sushi Master.png"
+    },
+    {
+        "id": 163,
+        "name": "Sword Warriors.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Sword Warriors.png"
+    },
+    {
+        "id": 164,
+        "name": "Taxi.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Taxi.png"
+    },
+    {
+        "id": 165,
+        "name": "TBSpinNWinSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TBSpinNWinSlots.png"
+    },
+    {
+        "id": 166,
+        "name": "The Crown.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/The Crown.png"
+    },
+    {
+        "id": 167,
+        "name": "TheGreatCasiniSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TheGreatCasiniSlots.png"
+    },
+    {
+        "id": 168,
+        "name": "TheHoppingDead.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TheHoppingDead.png"
+    },
+    {
+        "id": 169,
+        "name": "TheSilkRoad.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TheSilkRoad.png"
+    },
+    {
+        "id": 170,
+        "name": "ThunderingZeus H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ThunderingZeus H5.png"
+    },
+    {
+        "id": 171,
+        "name": "ThunderingZeus.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ThunderingZeus.png"
+    },
+    {
+        "id": 172,
+        "name": "TigerSlayer.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TigerSlayer.png"
+    },
+    {
+        "id": 173,
+        "name": "TikiTreasures.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/TikiTreasures.png"
+    },
+    {
+        "id": 174,
+        "name": "Tiny Door Gods.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Tiny Door Gods.png"
+    },
+    {
+        "id": 175,
+        "name": "Top Trend Gaming.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Top Trend Gaming.png"
+    },
+    {
+        "id": 176,
+        "name": "Triple Luck.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Triple Luck.png"
+    },
+    {
+        "id": 177,
+        "name": "Ultimate fighter.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Ultimate fighter.png"
+    },
+    {
+        "id": 178,
+        "name": "VampiresVsWerewolves.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/VampiresVsWerewolves.png"
+    },
+    {
+        "id": 179,
+        "name": "VictoryRidgeSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/VictoryRidgeSlots.png"
+    },
+    {
+        "id": 180,
+        "name": "Viking Honour XtraWild.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Viking Honour XtraWild.png"
+    },
+    {
+        "id": 181,
+        "name": "VivaVeneziaSlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/VivaVeneziaSlots.png"
+    },
+    {
+        "id": 182,
+        "name": "Wild Kart Racers.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild Kart Racers.png"
+    },
+    {
+        "id": 183,
+        "name": "Wild Land.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild Land.png"
+    },
+    {
+        "id": 184,
+        "name": "Wild Triads.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild Triads.png"
+    },
+    {
+        "id": 185,
+        "name": "Wild West H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild West H5.png"
+    },
+    {
+        "id": 186,
+        "name": "Wild Wild Tiger.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild Wild Tiger.png"
+    },
+    {
+        "id": 187,
+        "name": "Wild Wild Witch.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild Wild Witch.png"
+    },
+    {
+        "id": 188,
+        "name": "WildMummySlots.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/WildMummySlots.png"
+    },
+    {
+        "id": 189,
+        "name": "Wild_West.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Wild_West.png"
+    },
+    {
+        "id": 190,
+        "name": "Year of The Monkey H5.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Year of The Monkey H5.png"
+    },
+    {
+        "id": 191,
+        "name": "Year Of The Wild Wild Tiger.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Year Of The Wild Wild Tiger.png"
+    },
+    {
+        "id": 192,
+        "name": "YearofTheMonkey.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/YearofTheMonkey.png"
+    },
+    {
+        "id": 193,
+        "name": "Ying Cai Shen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Ying Cai Shen.png"
+    },
+    {
+        "id": 194,
+        "name": "ZeusVsHades.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ZeusVsHades.png"
+    },
+    {
+        "id": 195,
+        "name": "ZodiacWild.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/ZodiacWild.png"
+    },
+    {
+        "id": 196,
+        "name": "Zombies on Vacation.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Zombies on Vacation.png"
+    },
+    {
+        "id": 197,
+        "name": "Zoomania.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/toptrend/Zoomania.png"
+    }
+]

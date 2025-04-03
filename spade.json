@@ -1,0 +1,547 @@
+[
+    {
+        "id": 1,
+        "name": "168 Fortunes.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/168 Fortunes.png"
+    },
+    {
+        "id": 2,
+        "name": "5 Fortune Dragons.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/5 Fortune Dragons.png"
+    },
+    {
+        "id": 3,
+        "name": "5 Fortune SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/5 Fortune SA.png"
+    },
+    {
+        "id": 4,
+        "name": "5 Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/5 Fortune.png"
+    },
+    {
+        "id": 5,
+        "name": "888.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/888.png"
+    },
+    {
+        "id": 6,
+        "name": "Adventure Iceland.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Adventure Iceland.png"
+    },
+    {
+        "id": 7,
+        "name": "Baby Cai Shen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Baby Cai Shen.png"
+    },
+    {
+        "id": 8,
+        "name": "Big Prosperity SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Big Prosperity SA.png"
+    },
+    {
+        "id": 9,
+        "name": "Big Prosperity.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Big Prosperity.png"
+    },
+    {
+        "id": 10,
+        "name": "Book of Myth.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Book of Myth.png"
+    },
+    {
+        "id": 11,
+        "name": "Brothers Kingdom.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Brothers Kingdom.png"
+    },
+    {
+        "id": 12,
+        "name": "Cai Shen 888.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Cai Shen 888.png"
+    },
+    {
+        "id": 13,
+        "name": "Cai Yuan Guang Jin.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Cai Yuan Guang Jin.png"
+    },
+    {
+        "id": 14,
+        "name": "Caishen Deluxe Megaways.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Caishen Deluxe Megaways.png"
+    },
+    {
+        "id": 15,
+        "name": "Caishen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Caishen.png"
+    },
+    {
+        "id": 16,
+        "name": "Candy Candy.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Candy Candy.png"
+    },
+    {
+        "id": 17,
+        "name": "Candy Pop 2.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Candy Pop 2.png"
+    },
+    {
+        "id": 18,
+        "name": "Candy Pop.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Candy Pop.png"
+    },
+    {
+        "id": 19,
+        "name": "Captain Golds Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Captain Golds Fortune.png"
+    },
+    {
+        "id": 20,
+        "name": "Christmas Miracles.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Christmas Miracles.png"
+    },
+    {
+        "id": 21,
+        "name": "Crazy Bomber.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Crazy Bomber.png"
+    },
+    {
+        "id": 22,
+        "name": "Da Fu Xiao Fu.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Da Fu Xiao Fu.png"
+    },
+    {
+        "id": 23,
+        "name": "Dancing Fever.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Dancing Fever.png"
+    },
+    {
+        "id": 24,
+        "name": "Double Flame.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Double Flame.png"
+    },
+    {
+        "id": 25,
+        "name": "Double Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Double Fortune.png"
+    },
+    {
+        "id": 26,
+        "name": "Dragon Empire.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Dragon Empire.png"
+    },
+    {
+        "id": 27,
+        "name": "Dragon Gold SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Dragon Gold SA.png"
+    },
+    {
+        "id": 28,
+        "name": "Dragon Gold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Dragon Gold.png"
+    },
+    {
+        "id": 29,
+        "name": "Emperor Gate SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Emperor Gate SA.png"
+    },
+    {
+        "id": 30,
+        "name": "Emperor Gate.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Emperor Gate.png"
+    },
+    {
+        "id": 31,
+        "name": "FaFaFa.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/FaFaFa.png"
+    },
+    {
+        "id": 32,
+        "name": "FaFaFa2.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/FaFaFa2.png"
+    },
+    {
+        "id": 33,
+        "name": "Farmland Frenzy Maxways.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Farmland Frenzy Maxways.png"
+    },
+    {
+        "id": 34,
+        "name": "Festive Lion.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Festive Lion.png"
+    },
+    {
+        "id": 35,
+        "name": "Fiery Sevens Exclusive.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Fiery Sevens Exclusive.png"
+    },
+    {
+        "id": 36,
+        "name": "Fiery Sevens.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Fiery Sevens.png"
+    },
+    {
+        "id": 37,
+        "name": "First Love.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/First Love.png"
+    },
+    {
+        "id": 38,
+        "name": "Fist of Gold.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Fist of Gold.png"
+    },
+    {
+        "id": 39,
+        "name": "Fruits Mania.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Fruits Mania.png"
+    },
+    {
+        "id": 40,
+        "name": "Gemstone Rush.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Gemstone Rush.png"
+    },
+    {
+        "id": 41,
+        "name": "Gold Panther Maxways.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Gold Panther Maxways.png"
+    },
+    {
+        "id": 42,
+        "name": "Gold Panther.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Gold Panther.png"
+    },
+    {
+        "id": 43,
+        "name": "Gold Rush Cowboy.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Gold Rush Cowboy.png"
+    },
+    {
+        "id": 44,
+        "name": "Golden Chicken.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Golden Chicken.png"
+    },
+    {
+        "id": 45,
+        "name": "Golden Fist.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Golden Fist.png"
+    },
+    {
+        "id": 46,
+        "name": "Golden Lotus SE.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Golden Lotus SE.png"
+    },
+    {
+        "id": 47,
+        "name": "Golden Monkey.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Golden Monkey.png"
+    },
+    {
+        "id": 48,
+        "name": "Golden Whale.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Golden Whale.png"
+    },
+    {
+        "id": 49,
+        "name": "Great Stars SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Great Stars SA.png"
+    },
+    {
+        "id": 50,
+        "name": "Great Stars.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Great Stars.png"
+    },
+    {
+        "id": 51,
+        "name": "Hammer of Thunder.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Hammer of Thunder.png"
+    },
+    {
+        "id": 52,
+        "name": "Heroes.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Heroes.png"
+    },
+    {
+        "id": 53,
+        "name": "Highway Fortune.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Highway Fortune.png"
+    },
+    {
+        "id": 54,
+        "name": "Ho Yeah Monkey.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Ho Yeah Monkey.png"
+    },
+    {
+        "id": 55,
+        "name": "Hugon Quest.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Hugon Quest.png"
+    },
+    {
+        "id": 56,
+        "name": "Iceland SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Iceland SA.png"
+    },
+    {
+        "id": 57,
+        "name": "Joker&#039;s Treasure Exclusive.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Joker&#039;s Treasure Exclusive.png"
+    },
+    {
+        "id": 58,
+        "name": "Jokers Treasure.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Jokers Treasure.png"
+    },
+    {
+        "id": 59,
+        "name": "Journey to the Wild.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Journey to the Wild.png"
+    },
+    {
+        "id": 60,
+        "name": "Jungle King.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Jungle King.png"
+    },
+    {
+        "id": 61,
+        "name": "King Pharaoh.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/King Pharaoh.png"
+    },
+    {
+        "id": 62,
+        "name": "Kungfu Dragon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Kungfu Dragon.png"
+    },
+    {
+        "id": 63,
+        "name": "Legacy of Kong Maxways.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Legacy of Kong Maxways.png"
+    },
+    {
+        "id": 64,
+        "name": "Legendary Beasts Saga.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Legendary Beasts Saga.png"
+    },
+    {
+        "id": 65,
+        "name": "Love Idol.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Love Idol.png"
+    },
+    {
+        "id": 66,
+        "name": "Lucky Cai Shen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Lucky Cai Shen.png"
+    },
+    {
+        "id": 67,
+        "name": "Lucky Feng Shui.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Lucky Feng Shui.png"
+    },
+    {
+        "id": 68,
+        "name": "Lucky Koi Exclusive.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Lucky Koi Exclusive.png"
+    },
+    {
+        "id": 69,
+        "name": "Lucky Koi.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Lucky Koi.png"
+    },
+    {
+        "id": 70,
+        "name": "Lucky Meow.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Lucky Meow.png"
+    },
+    {
+        "id": 71,
+        "name": "Magic Kitty.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Magic Kitty.png"
+    },
+    {
+        "id": 72,
+        "name": "Magical Lamp.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Magical Lamp.png"
+    },
+    {
+        "id": 73,
+        "name": "Mayan Gems.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Mayan Gems.png"
+    },
+    {
+        "id": 74,
+        "name": "Mega 7.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Mega 7.png"
+    },
+    {
+        "id": 75,
+        "name": "Mermaid.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Mermaid.png"
+    },
+    {
+        "id": 76,
+        "name": "Moji Mania.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Moji Mania.png"
+    },
+    {
+        "id": 77,
+        "name": "Money Mouse.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Money Mouse.png"
+    },
+    {
+        "id": 78,
+        "name": "Mr Chu Tycoon.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Mr Chu Tycoon.png"
+    },
+    {
+        "id": 79,
+        "name": "Muay Thai Fighter.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Muay Thai Fighter.png"
+    },
+    {
+        "id": 80,
+        "name": "Panda Opera.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Panda Opera.png"
+    },
+    {
+        "id": 81,
+        "name": "Pirate King.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Pirate King.png"
+    },
+    {
+        "id": 82,
+        "name": "Pocket Mon Go.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Pocket Mon Go.png"
+    },
+    {
+        "id": 83,
+        "name": "Poker Ways.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Poker Ways.png"
+    },
+    {
+        "id": 84,
+        "name": "Princess Wang.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Princess Wang.png"
+    },
+    {
+        "id": 85,
+        "name": "Prosperity Gods.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Prosperity Gods.png"
+    },
+    {
+        "id": 86,
+        "name": "Rabbit Riches.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Rabbit Riches.png"
+    },
+    {
+        "id": 87,
+        "name": "Rich Caishen.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Rich Caishen.png"
+    },
+    {
+        "id": 88,
+        "name": "Rise of Werewolves.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Rise of Werewolves.png"
+    },
+    {
+        "id": 89,
+        "name": "Roma.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Roma.png"
+    },
+    {
+        "id": 90,
+        "name": "Royal Katt.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Royal Katt.png"
+    },
+    {
+        "id": 91,
+        "name": "Royale House.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Royale House.png"
+    },
+    {
+        "id": 92,
+        "name": "Ruby Hood.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Ruby Hood.png"
+    },
+    {
+        "id": 93,
+        "name": "Santa Gifts.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Santa Gifts.png"
+    },
+    {
+        "id": 94,
+        "name": "Sea Emperor.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Sea Emperor.png"
+    },
+    {
+        "id": 95,
+        "name": "Sexy Vegas.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Sexy Vegas.png"
+    },
+    {
+        "id": 96,
+        "name": "Space Conquest.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Space Conquest.png"
+    },
+    {
+        "id": 97,
+        "name": "Spadegaming.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Spadegaming.png"
+    },
+    {
+        "id": 98,
+        "name": "Sugar Bonanza.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Sugar Bonanza.png"
+    },
+    {
+        "id": 99,
+        "name": "Sugar Party.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Sugar Party.png"
+    },
+    {
+        "id": 100,
+        "name": "Three Lucky Stars.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Three Lucky Stars.png"
+    },
+    {
+        "id": 101,
+        "name": "Tiger Dance.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Tiger Dance.png"
+    },
+    {
+        "id": 102,
+        "name": "Tiger Warrior.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Tiger Warrior.png"
+    },
+    {
+        "id": 103,
+        "name": "Triple Panda.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Triple Panda.png"
+    },
+    {
+        "id": 104,
+        "name": "Wild Wet Win.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Wild Wet Win.png"
+    },
+    {
+        "id": 105,
+        "name": "Wong Choy SA.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Wong Choy SA.png"
+    },
+    {
+        "id": 106,
+        "name": "Wong Choy.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Wong Choy.png"
+    },
+    {
+        "id": 107,
+        "name": "Wong Po.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Wong Po.png"
+    },
+    {
+        "id": 108,
+        "name": "Wow Prosperity.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/Wow Prosperity.png"
+    },
+    {
+        "id": 109,
+        "name": "ZEUS.png",
+        "image": "https://cdn.jsdelivr.net/gh/bintangmagnum/api-image@main/spade/ZEUS.png"
+    }
+]
